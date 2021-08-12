@@ -3,7 +3,7 @@ BOT_KEY = ""
 JOINED_MESSAGE = "Chal jump kar"
 ON_READY = "Hello Antinormies"
 RESPONSES = [
-    
+    "That's what she said","Title of your sex tape","Good point, no-one cares","I searched everything and couldn't find when I asked for your opinion..."
 ]
 QUESTION = [
     "It is certain.", "It is decidedly so.", "Without a doubt.",
